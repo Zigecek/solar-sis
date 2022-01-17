@@ -2,7 +2,7 @@
   "name": "solar-sis_pip",
   "version": "1.0.1",
   "dependencies": {
-    "solar-sis": "latest",
+    "solar-sis": "https://github.com/Zigecek/solar-sis/",
     "serialport": "7.1.4"
   }
 }
