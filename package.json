@@ -16,7 +16,7 @@
   "author": "opengd",
   "license": "MIT",
   "dependencies": {
-    "crc16": "latest",
+    "crc16": "https://github.com/APshenkin/crc16",
     "express": "latest",
     "fs": "latest",
     "npmdatelog": "latest",
